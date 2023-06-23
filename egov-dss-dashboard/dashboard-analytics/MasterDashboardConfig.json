@@ -358,6 +358,7 @@
             {
               "id": 503,
               "name": "DSS_PAYMENT_BY_GENDER",
+              "isFullWidth": "true",
               "dimensions": {
                 "height": 350,
                 "width": 12
